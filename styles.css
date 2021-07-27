@@ -1,0 +1,78 @@
+.dark_desaturated_blue {
+    background-color: hsl(244, 38%, 16%);
+}
+.very_dark_blue {
+    background-color: hsl(233, 47%, 7%);
+}
+.white {
+    color: hsl(0, 0%, 100%);
+}
+.slightly_transparent_white_main_paragraph {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.slightly_transparent_white_stat_headings {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.desktop-width {
+    width: 1440px;
+    height: 700px;
+}
+
+.soft_violet {
+    color: hsl(277, 64%, 61%);
+}
+
+#template {
+    padding-top: 140px;
+    padding-left: 130px;
+    padding-right: 110px;
+}
+
+
+body {
+    background-color: black;
+}
+
+#image {
+    opacity: 0.5;
+    width: 100%;
+    /* background-color: hsl(277, 64%, 61%); */
+}
+
+#image-container {
+    background-color: hsl(277, 64%, 61%);
+}
+
+
+#header {
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#header-title {
+    font-family: Lexend Deca;
+}
+
+
+
+#description {
+    font-size: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: Inter;
+}
+
+#stats {
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: Lexend Deca;
+}
+#stats-header {
+    /* margin-top: 30px; */
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 10px;
+    font-family: Lexend Deca;
+}
